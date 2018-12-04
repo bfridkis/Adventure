@@ -1,2 +1,2 @@
 # Adventure
-"Adventure"-like Game. Demonstrates simple use of threading and mutexes.
+"Adventure"-like game. Demonstrates simple use of threading and mutexes.
