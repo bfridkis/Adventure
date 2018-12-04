@@ -19,5 +19,5 @@ Getting Started:
 
 2.  Type the command "compile" (without quotes)
 
-3.  Type "fridkisb.adventure" (without quotes) to launch the program.
+3.  Type "./fridkisb.adventure" (without quotes) to launch the program.
 
