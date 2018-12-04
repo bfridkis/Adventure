@@ -1,0 +1,7 @@
+#!/bin/bash
+
+gcc -o fridkisb.buildrooms fridkisb.buildrooms.c
+
+fridkisb.buildrooms
+
+gcc -o fridkisb.adventure fridkisb.adventure.c -lpthread
